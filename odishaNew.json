@@ -1,0 +1,6032 @@
+ [
+        {
+            "id": "1",
+            "itemName": "Class 21 Grain Vodka(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "2",
+            "itemName": "Class 21 Grain Vodka(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "3",
+            "itemName": "Class 21 Grain Vodka(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "4",
+            "itemName": "Class 21 Grain Vodka(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "6",
+            "itemName": "Jolly Roger Premium XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "7",
+            "itemName": "Jolly Roger Premium XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "8",
+            "itemName": "Jolly Roger Premium XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "9",
+            "itemName": "Jolly Roger Premium XXX Rum(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "11",
+            "itemName": "Officer Choice Blue Deluxe Grain Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "12",
+            "itemName": "Officer Choice Blue Deluxe Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "13",
+            "itemName": "Officer Choice Blue Deluxe Grain Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "14",
+            "itemName": "Officer Choice Blue Deluxe Grain Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "16",
+            "itemName": "Officer's Choice Prestige Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "17",
+            "itemName": "Officer's Choice Prestige Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "18",
+            "itemName": "Officer's Choice Prestige Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "19",
+            "itemName": "Officer's Choice Prestige Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "21",
+            "itemName": "Officers' Choice Rare XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "22",
+            "itemName": "Officers' Choice Rare XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "23",
+            "itemName": "Officers' Choice Rare XXX Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "24",
+            "itemName": "Officers' Choice Rare XXX Rum(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "26",
+            "itemName": "Sterling Reserve B-10 (180)",
+            "mrp": "250",
+            "covidMrp": "375"
+        },
+        {
+            "id": "27",
+            "itemName": "Sterling Reserve B-10 (375)",
+            "mrp": "490",
+            "covidMrp": "735"
+        },
+        {
+            "id": "28",
+            "itemName": "Sterling Reserve B-10 (750)",
+            "mrp": "960",
+            "covidMrp": "1440"
+        },
+        {
+            "id": "29",
+            "itemName": "Sterling Reserve B7  Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "30",
+            "itemName": "Sterling Reserve B-7 (180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "31",
+            "itemName": "Sterling Reserve B-7 (375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "32",
+            "itemName": "Sterling Reserve B-7 (750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "33",
+            "itemName": "Beck's Ice Superior Strength Beer Can(500)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "34",
+            "itemName": "Beck's Ice Superior Strength Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "35",
+            "itemName": "Fosters Gold Strong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "36",
+            "itemName": "Fosters Strong Premium Can Beer(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "37",
+            "itemName": "KNOCK OUT HIGH PUNCH STRONG BEER, CAN",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "38",
+            "itemName": "Knockout High Punch Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "39",
+            "itemName": "Royal Challange Premium Lager Beer(650)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "40",
+            "itemName": "The Original Haywards 5000 Classic Premium Strong&#10;Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "41",
+            "itemName": "THE ORIGINAL HAYWARDS 5000 SUPER STRONG BEER (650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "42",
+            "itemName": "The Original Haywards 5000 Super Strong Cann Beer(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "43",
+            "itemName": "Double Blue Premium Blended Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "44",
+            "itemName": "Double Blue Premium Blended Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "45",
+            "itemName": "Double Blue Premium Blended Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "47",
+            "itemName": "Episode Deluxe XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "48",
+            "itemName": "Episode Deluxe XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "49",
+            "itemName": "Episode Deluxe XXX Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "50",
+            "itemName": "Episode Deluxe XXX Rum(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "52",
+            "itemName": "Moonwalk Premium Vodka(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "53",
+            "itemName": "Moonwalk Premium Vodka(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "54",
+            "itemName": "Moonwalk Premium Vodka(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "55",
+            "itemName": "Royal Green Deluxe Blended Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "56",
+            "itemName": "Royal Green Deluxe Blended Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "57",
+            "itemName": "Royal Green Deluxe Blended Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "59",
+            "itemName": "The Generation Deluxe Blended Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "60",
+            "itemName": "The Generation Deluxe Blended Whisky(375)",
+            "mrp": "480",
+            "covidMrp": "720"
+        },
+        {
+            "id": "61",
+            "itemName": "The Generation Deluxe Blended Whisky(750)",
+            "mrp": "940",
+            "covidMrp": "1410"
+        },
+        {
+            "id": "62",
+            "itemName": "Young Fisherman Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "63",
+            "itemName": "Golfer's Shot Barrel Aged Whisky(180)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "64",
+            "itemName": "Golfer's Shot Barrel Aged Whisky(375)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "65",
+            "itemName": "Golfer's Shot Barrel Aged Whisky(750)",
+            "mrp": "910",
+            "covidMrp": "1365"
+        },
+        {
+            "id": "67",
+            "itemName": "Lion Daddy Premium Dark Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "68",
+            "itemName": "Lion Daddy Premium Dark Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "69",
+            "itemName": "Lion Daddy Premium Dark Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "71",
+            "itemName": "Old Smuggler Blended Scotch Whisky(180)",
+            "mrp": "440",
+            "covidMrp": "660"
+        },
+        {
+            "id": "72",
+            "itemName": "Old Smuggler Blended Scotch Whisky(750)",
+            "mrp": "1660",
+            "covidMrp": "2490"
+        },
+        {
+            "id": "74",
+            "itemName": "White & Blue Premium Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "75",
+            "itemName": "White & Blue Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "76",
+            "itemName": "White & Blue Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "77",
+            "itemName": "White & Blue Premium Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "79",
+            "itemName": "White & Blue Rare OAK Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "80",
+            "itemName": "White & Blue Rare OAK Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "81",
+            "itemName": "White & Blue Rare OAK Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "82",
+            "itemName": "White & Blue Rare OAK Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "84",
+            "itemName": "White Hills Reserve Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "85",
+            "itemName": "White Hills Reserve Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "86",
+            "itemName": "White Hills Reserve Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "87",
+            "itemName": "White Hills Reserve Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "89",
+            "itemName": "Martens Extra 7 Pilsener Beer Can(500)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "90",
+            "itemName": "Martens Premium 5 Beer Bottle(330)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "91",
+            "itemName": "Martens Premium 5 Beer Can(500)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "92",
+            "itemName": "Bhutan Blue Classic Grain Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "93",
+            "itemName": "Bhutan Blue Classic Grain Whisky(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "94",
+            "itemName": "Bhutan Blue Classic Grain Whisky(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "95",
+            "itemName": "Bhutan Blue Classic Grain Whisky(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "97",
+            "itemName": "Royal Bhutan Classic Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "98",
+            "itemName": "Royal Bhutan Classic Rum(180)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "99",
+            "itemName": "Royal Bhutan Classic Rum(375)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "100",
+            "itemName": "Royal Bhutan Classic Rum(750)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "102",
+            "itemName": "Zumzin Peach Wine(375)",
+            "mrp": "250",
+            "covidMrp": "375"
+        },
+        {
+            "id": "103",
+            "itemName": "Zumzin Peach Wine(750)",
+            "mrp": "480",
+            "covidMrp": "720"
+        },
+        {
+            "id": "104",
+            "itemName": "Eclipse Premium Whisky(750)",
+            "mrp": "1330",
+            "covidMrp": "1995"
+        },
+        {
+            "id": "105",
+            "itemName": "ASKA 40 COUNTRY LIQUOR (200 ML)",
+            "mrp": "60",
+            "covidMrp": "90"
+        },
+        {
+            "id": "106",
+            "itemName": "B & G Barton & Guestier Merlot Reserve (750)",
+            "mrp": "1700",
+            "covidMrp": "2550"
+        },
+        {
+            "id": "107",
+            "itemName": "Banrock Station Chardonnay (750)",
+            "mrp": "1370",
+            "covidMrp": "2055"
+        },
+        {
+            "id": "108",
+            "itemName": "Banrock Station Shiraz (750)",
+            "mrp": "1380",
+            "covidMrp": "2070"
+        },
+        {
+            "id": "109",
+            "itemName": "Black Tower Dornfelder Pinot Noir Red Wine(750)",
+            "mrp": "1590",
+            "covidMrp": "2385"
+        },
+        {
+            "id": "110",
+            "itemName": "Black Tower Riesling(750)",
+            "mrp": "1580",
+            "covidMrp": "2370"
+        },
+        {
+            "id": "111",
+            "itemName": "Brut Freixenet Cordon Negro Cava(750)",
+            "mrp": "1700",
+            "covidMrp": "2550"
+        },
+        {
+            "id": "112",
+            "itemName": "Glengrant Single malt Scotch Whisky Aged 10 Years(750)",
+            "mrp": "5670",
+            "covidMrp": "8505"
+        },
+        {
+            "id": "113",
+            "itemName": "Golden Sparrow Chardonnay Rubicone 2015 White&#10;Wine(750)",
+            "mrp": "1250",
+            "covidMrp": "1875"
+        },
+        {
+            "id": "114",
+            "itemName": "Golden Sparrow Sangiovese Rubicone 2015 Red Wine(750)",
+            "mrp": "1250",
+            "covidMrp": "1875"
+        },
+        {
+            "id": "115",
+            "itemName": "Jagermeister Herbal Liqueur(750)",
+            "mrp": "3800",
+            "covidMrp": "5700"
+        },
+        {
+            "id": "116",
+            "itemName": "Scottish Leader Blended Scotch Whisky(750)",
+            "mrp": "1980",
+            "covidMrp": "2970"
+        },
+        {
+            "id": "117",
+            "itemName": "Skyy Vodka(750)",
+            "mrp": "2080",
+            "covidMrp": "3120"
+        },
+        {
+            "id": "118",
+            "itemName": "Stolichnaya Vodka(750)",
+            "mrp": "2070",
+            "covidMrp": "3105"
+        },
+        {
+            "id": "119",
+            "itemName": "Tequila Blanco Don Angel(750)",
+            "mrp": "2020",
+            "covidMrp": "3030"
+        },
+        {
+            "id": "120",
+            "itemName": "Two Oceans Pinotage (750)",
+            "mrp": "1590",
+            "covidMrp": "2385"
+        },
+        {
+            "id": "121",
+            "itemName": "Two Oceans Sauvignon Blanc (750)",
+            "mrp": "1580",
+            "covidMrp": "2370"
+        },
+        {
+            "id": "122",
+            "itemName": "Bacardi Apple Original Apple Rum(090)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "123",
+            "itemName": "Bacardi Apple Original Apple Rum(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "124",
+            "itemName": "Bacardi Apple Original Apple Rum(375)",
+            "mrp": "430",
+            "covidMrp": "645"
+        },
+        {
+            "id": "125",
+            "itemName": "Bacardi Apple Original Apple Rum(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "126",
+            "itemName": "Bacardi Apple Original Apple Rum(750)",
+            "mrp": "840",
+            "covidMrp": "1260"
+        },
+        {
+            "id": "127",
+            "itemName": "Bacardi Carta Blanca Super  Premium Superior White&#10;Rum(090)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "128",
+            "itemName": "Bacardi Carta Blanca Super  Premium Superior White Rum(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "129",
+            "itemName": "Bacardi Carta Blanca Super  Premium Superior White&#10;Rum(375)",
+            "mrp": "420",
+            "covidMrp": "630"
+        },
+        {
+            "id": "130",
+            "itemName": "Bacardi Carta Blanca Super  Premium Superior White&#10;Rum(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "131",
+            "itemName": "Bacardi Classic Black Original Pr.Crafted Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "132",
+            "itemName": "Bacardi Classic Black Original Pr.Crafted Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "133",
+            "itemName": "Bacardi Classic Black Original Pr.Crafted Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "134",
+            "itemName": "Bacardi Classic Black Original Pr.Crafted Rum(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "135",
+            "itemName": "Bacardi Classic Black Original Pr.Crafted Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "137",
+            "itemName": "Bacardi Deluxe Black Original Premium Crafted Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "138",
+            "itemName": "Bacardi Deluxe Black Original Premium Crafted Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "139",
+            "itemName": "Bacardi Deluxe Black Original Premium Crafted Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "140",
+            "itemName": "Bacardi Limon Original Citrus Rum(090)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "141",
+            "itemName": "Bacardi Limon Original Citrus Rum(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "142",
+            "itemName": "Bacardi Limon Original Citrus Rum(375)",
+            "mrp": "430",
+            "covidMrp": "645"
+        },
+        {
+            "id": "143",
+            "itemName": "Bacardi Limon Original Citrus Rum(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "144",
+            "itemName": "Bacardi Limon Original Citrus Rum(750)",
+            "mrp": "840",
+            "covidMrp": "1260"
+        },
+        {
+            "id": "146",
+            "itemName": "Bacardi O Original Orange Rum(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "147",
+            "itemName": "Bacardi O Original Orange Rum(750)",
+            "mrp": "840",
+            "covidMrp": "1260"
+        },
+        {
+            "id": "148",
+            "itemName": "Bacardi Pineapple Fusion Original Pineapple & Coconut&#10;Rum(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "149",
+            "itemName": "Baccardi + Cola - Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "150",
+            "itemName": "Baccardi + Cranberry - Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "151",
+            "itemName": "Baccardi + Lemon FIZZ- Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "152",
+            "itemName": "Baccardi + Lemonade - Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "153",
+            "itemName": "Baccardi + Orange - Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "154",
+            "itemName": "Baccardi + Orange FIZZ- Rum Mixed Drink(275)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "155",
+            "itemName": "Bombay Sapphire Distilled London Dry Gin(750)",
+            "mrp": "2370",
+            "covidMrp": "3555"
+        },
+        {
+            "id": "156",
+            "itemName": "Breezer Blackberry Crush(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "157",
+            "itemName": "Breezer Blueberry(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "158",
+            "itemName": "Breezer Cranberry(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "159",
+            "itemName": "Breezer Jamaican Passion(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "160",
+            "itemName": "Breezer Lemon Splash(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "161",
+            "itemName": "Breezer Orange(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "162",
+            "itemName": "Camino Real Tequila(750)",
+            "mrp": "2120",
+            "covidMrp": "3180"
+        },
+        {
+            "id": "163",
+            "itemName": "Dewar's White Label Blended Scotch Whisky(750)",
+            "mrp": "1990",
+            "covidMrp": "2985"
+        },
+        {
+            "id": "164",
+            "itemName": "Grey Goose Vodka(750)",
+            "mrp": "3850",
+            "covidMrp": "5775"
+        },
+        {
+            "id": "165",
+            "itemName": "William Lawson's Blended Scotch Whisky(180)",
+            "mrp": "420",
+            "covidMrp": "630"
+        },
+        {
+            "id": "166",
+            "itemName": "William Lawson's Blended Scotch Whisky(375)",
+            "mrp": "840",
+            "covidMrp": "1260"
+        },
+        {
+            "id": "167",
+            "itemName": "William Lawson's Blended Scotch Whisky(750)",
+            "mrp": "1660",
+            "covidMrp": "2490"
+        },
+        {
+            "id": "168",
+            "itemName": "Laphroaigislay Single Malt Scotch Whisky 10Yrs Old(750)",
+            "mrp": "4650",
+            "covidMrp": "6975"
+        },
+        {
+            "id": "169",
+            "itemName": "Sauza Tequila Silver(1000)",
+            "mrp": "2650",
+            "covidMrp": "3975"
+        },
+        {
+            "id": "170",
+            "itemName": "Teacher's  -50- Scottish Reserve Blended Scotch Whisky&#10;(180)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "171",
+            "itemName": "Teacher's  -50- Scottish Reserve Blended Scotch Whisky&#10;(375)",
+            "mrp": "1100",
+            "covidMrp": "1650"
+        },
+        {
+            "id": "172",
+            "itemName": "Teacher's- 50- 12 years old Blended Scotch Whisky (180)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "173",
+            "itemName": "Teacher's 50 12 years old Blended Scotch Whisky (375)",
+            "mrp": "1100",
+            "covidMrp": "1650"
+        },
+        {
+            "id": "174",
+            "itemName": "Teacher's 50 12 years old Blended Scotch Whisky (750)",
+            "mrp": "2140",
+            "covidMrp": "3210"
+        },
+        {
+            "id": "175",
+            "itemName": "Teacher's -50- Scottish Reserve Blended Scotch Whisky (750)",
+            "mrp": "2140",
+            "covidMrp": "3210"
+        },
+        {
+            "id": "176",
+            "itemName": "Teacher's Highland Cream Blended Scotch Whisky (1000)",
+            "mrp": "2220",
+            "covidMrp": "3330"
+        },
+        {
+            "id": "177",
+            "itemName": "Teacher's Highland Cream Blended Scotch Whisky (180)",
+            "mrp": "450",
+            "covidMrp": "675"
+        },
+        {
+            "id": "178",
+            "itemName": "Teacher's Highland Cream Blended Scotch Whisky (375)",
+            "mrp": "870",
+            "covidMrp": "1305"
+        },
+        {
+            "id": "179",
+            "itemName": "Teacher's Highland Cream Blended Scotch Whisky (750)",
+            "mrp": "1700",
+            "covidMrp": "2550"
+        },
+        {
+            "id": "180",
+            "itemName": "Teacher's Origin Blended Scotch Whisky (750)",
+            "mrp": "2400",
+            "covidMrp": "3600"
+        },
+        {
+            "id": "181",
+            "itemName": "Maharani Gold XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "182",
+            "itemName": "Maharani Gold XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "183",
+            "itemName": "Maharani Gold XXX Rum(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "184",
+            "itemName": "Druk Supreme Premium Strong Beer(650)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "185",
+            "itemName": "Premium Strong Beer Druk 11000 Can(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "186",
+            "itemName": "Premium Strong Beer Druk(650)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "187",
+            "itemName": "Special 7 Lemon Flavour(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "188",
+            "itemName": "Special 7 Orange Flavour(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "189",
+            "itemName": "Special 7(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "190",
+            "itemName": "Special 7(600)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "191",
+            "itemName": "Bols Premier X.O.Excelence Brandy(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "192",
+            "itemName": "Bols Premier X.O.Excelence Brandy(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "193",
+            "itemName": "Bols Premier X.O.Excelence Brandy(750)",
+            "mrp": "940",
+            "covidMrp": "1410"
+        },
+        {
+            "id": "194",
+            "itemName": "BOOTZ Dark Jamaica Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "195",
+            "itemName": "BOOTZ Dark Jamaica Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "196",
+            "itemName": "BOOTZ Dark Jamaica Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "197",
+            "itemName": "BOOTZ Dark Jamaica Rum(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "199",
+            "itemName": "Cliff Hanger Green Apple Premium Handcrafted Vodka(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "200",
+            "itemName": "Cliff Hanger Green Apple Premium Handcrafted Vodka(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "201",
+            "itemName": "Cliff Hanger Green Apple Premium Handcrafted Vodka(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "202",
+            "itemName": "Cliff Hanger Green Apple Premium Handcrafted Vodka(750)",
+            "mrp": "690",
+            "covidMrp": "1035"
+        },
+        {
+            "id": "204",
+            "itemName": "Cliff Hanger Lemon Premium Handcrafted Vodka(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "205",
+            "itemName": "Cliff Hanger Lemon Premium Handcrafted Vodka(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "206",
+            "itemName": "Cliff Hanger Lemon Premium Handcrafted Vodka(750)",
+            "mrp": "690",
+            "covidMrp": "1035"
+        },
+        {
+            "id": "207",
+            "itemName": "Cliff Hanger Orange Premium Handcrafted Vodka(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "208",
+            "itemName": "Cliff Hanger Orange Premium Handcrafted Vodka(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "209",
+            "itemName": "Cliff Hanger Orange Premium Handcrafted Vodka(750)",
+            "mrp": "690",
+            "covidMrp": "1035"
+        },
+        {
+            "id": "210",
+            "itemName": "Cliff Hanger Premium Handcrafted Vodka(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "211",
+            "itemName": "Cliff Hanger Premium Handcrafted Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "212",
+            "itemName": "Cliff Hanger Premium Handcrafted Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "213",
+            "itemName": "Cliff Hanger Premium Handcrafted Vodka(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "215",
+            "itemName": "Gladius 13 Premium Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "216",
+            "itemName": "Gladius 13 Premium Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "217",
+            "itemName": "Gladius 13 Premium Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "218",
+            "itemName": "Gladius 13 Premium Rum(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "220",
+            "itemName": "Gladius Blended 10 Year Old Gold Reserva Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "221",
+            "itemName": "Gladius Blended 10 Year Old Gold Reserva Rum(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "222",
+            "itemName": "Gladius Blended 10 Year Old Gold Reserva Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "224",
+            "itemName": "Gladius Lemon Twist Premium White Rum(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "225",
+            "itemName": "Gladius Lemon Twist Premium White Rum(375)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "226",
+            "itemName": "Gladius Lemon Twist Premium White Rum(750)",
+            "mrp": "670",
+            "covidMrp": "1005"
+        },
+        {
+            "id": "227",
+            "itemName": "Gladius Limoni Premium Citrus Rum(090)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "228",
+            "itemName": "Gladius Limoni Premium Citrus Rum(180)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "229",
+            "itemName": "Gladius Limoni Premium Citrus Rum(375)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "230",
+            "itemName": "Gladius Limoni Premium Citrus Rum(750)",
+            "mrp": "810",
+            "covidMrp": "1215"
+        },
+        {
+            "id": "232",
+            "itemName": "Jordy's Bar Premium Exquisite Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "233",
+            "itemName": "Jordy's Bar Premium Exquisite Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "234",
+            "itemName": "Jordy's Bar Premium Exquisite Whisky(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "235",
+            "itemName": "Jordy's Bar Premium Exquisite Whisky(750)",
+            "mrp": "700",
+            "covidMrp": "1050"
+        },
+        {
+            "id": "237",
+            "itemName": "Chinkara Cara Cabernet Merlot Victoria 2013(750)",
+            "mrp": "2490",
+            "covidMrp": "3735"
+        },
+        {
+            "id": "238",
+            "itemName": "Chinkara Cara Chardonnay Victoria 2013(750)",
+            "mrp": "2480",
+            "covidMrp": "3720"
+        },
+        {
+            "id": "239",
+            "itemName": "Lindeman's Premier Selection Brut Cuvee(750)",
+            "mrp": "1280",
+            "covidMrp": "1920"
+        },
+        {
+            "id": "240",
+            "itemName": "Lindeman's Premier Selection Chardonnay(750)",
+            "mrp": "1290",
+            "covidMrp": "1935"
+        },
+        {
+            "id": "241",
+            "itemName": "Lindeman's Premier Selection Shiraz-Cabernet(750)",
+            "mrp": "1290",
+            "covidMrp": "1935"
+        },
+        {
+            "id": "242",
+            "itemName": "Carlsberg Elephant 1847 Strong Super Premium Beer(650)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "243",
+            "itemName": "Carlsberg Elephant Extra Strong Super Pr.Beer(650)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "244",
+            "itemName": "Carlsberg Elephant Strong Super Pr.Beer Can(500)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "245",
+            "itemName": "TBG Premium Strong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "246",
+            "itemName": "Tuborg Classic Black Gold Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "247",
+            "itemName": "TUBORG STRONG PREMIUM BEER (CAN)(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "248",
+            "itemName": "Tuborg Strong Premium Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "249",
+            "itemName": "Budweiser Magnum Beer(650)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "250",
+            "itemName": "Budweiser Magnum Beer(650)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "251",
+            "itemName": "Budweiser Magnum Can Beer(500)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "252",
+            "itemName": "Budweiser Premium  King of Beers(330)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "253",
+            "itemName": "Budweiser Premium King of Beers(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "254",
+            "itemName": "Budweiser Premium King of Can Beers(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "255",
+            "itemName": "Corona Extra  Beer(355)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "256",
+            "itemName": "Hoegaarden Beer(330)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "257",
+            "itemName": "Leffe Blonde Blond(330)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "258",
+            "itemName": "Stella Artois(330)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "259",
+            "itemName": "Dansberg Blue Premium Lager Beer(650)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "260",
+            "itemName": "Denzong-9000-Strong-Beer(650)(NEW)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "261",
+            "itemName": "He-Man 9000 Ultra Super Strong Beer(650)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "262",
+            "itemName": "Jungle King Real Strong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "263",
+            "itemName": "Dansberg 16000 Super Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "266",
+            "itemName": "He-Man 9000 Gold Ultra Super Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "267",
+            "itemName": "Godfather Electra International Quality Beer Can(500)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "268",
+            "itemName": "Godfather Electra Premium Strong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "270",
+            "itemName": "Godfather Supreme Super Stong Beer (CAN) (500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "271",
+            "itemName": "Godfather Supreme Super Stong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "272",
+            "itemName": "Kotsberg Original Pils Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "274",
+            "itemName": "Kotsberg Premium Pils Beer Can(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "275",
+            "itemName": "Kotsberg Strong Premium Beer(650)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "276",
+            "itemName": "KOTSBERG STRONG SUPER PREMIUM BEER (CAN)(500)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "277",
+            "itemName": "Cutty Sark Blended Scotch Whisky(090)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "278",
+            "itemName": "Cutty Sark Blended Scotch Whisky(1000)",
+            "mrp": "2290",
+            "covidMrp": "3435"
+        },
+        {
+            "id": "279",
+            "itemName": "Cutty Sark Blended Scotch Whisky(180)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "280",
+            "itemName": "Cutty Sark Blended Scotch Whisky(750)",
+            "mrp": "1760",
+            "covidMrp": "2640"
+        },
+        {
+            "id": "284",
+            "itemName": "SCIX Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "285",
+            "itemName": "SCIX Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "286",
+            "itemName": "Black & Gold Rare Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "287",
+            "itemName": "Black & Gold Rare Premium Whisky(375)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "288",
+            "itemName": "Black & Gold Rare Premium Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "289",
+            "itemName": "Black Bull Deluxe XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "290",
+            "itemName": "Black Bull Deluxe XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "291",
+            "itemName": "Black Bull Deluxe XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "292",
+            "itemName": "Black Bull Deluxe XXX Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "293",
+            "itemName": "Colonel's Special Premium & Rare Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "294",
+            "itemName": "Colonel's Special Premium & Rare Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "295",
+            "itemName": "Colonel's Special Premium & Rare Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "297",
+            "itemName": "Diplomat Deluxe Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "298",
+            "itemName": "Diplomat Deluxe Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "299",
+            "itemName": "Diplomat Deluxe Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "300",
+            "itemName": "Diplomat Deluxe Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "302",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "303",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "304",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "305",
+            "itemName": "Gold House Select Grain whisky(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "306",
+            "itemName": "Gold House Select Grain whisky(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "307",
+            "itemName": "Gold House Select Grain whisky(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "308",
+            "itemName": "Gold House XXX Premium Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "309",
+            "itemName": "Gold House XXX Premium Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "310",
+            "itemName": "Gold House XXX Premium Rum(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "311",
+            "itemName": "Old Monk Apple Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "312",
+            "itemName": "Old Monk Apple Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "313",
+            "itemName": "Old Monk Apple Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "314",
+            "itemName": "Old Monk Gold Reserve Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "315",
+            "itemName": "Old Monk Gold Reserve Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "316",
+            "itemName": "Old Monk Gold Reserve Rum(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "317",
+            "itemName": "Old Monk Gold Reserve Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "319",
+            "itemName": "Old Monk Lemon Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "320",
+            "itemName": "Old Monk Lemon Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "321",
+            "itemName": "Old Monk Lemon Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "322",
+            "itemName": "Old Monk Lemon Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "323",
+            "itemName": "Old Monk Matured XXX Deluxe Rum VoV(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "324",
+            "itemName": "Old Monk Matured XXX Deluxe Rum VoV(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "325",
+            "itemName": "Old Monk Matured XXX Deluxe Rum VoV(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "327",
+            "itemName": "Old Monk Orange Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "328",
+            "itemName": "Old Monk Orange Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "329",
+            "itemName": "Old Monk Orange Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "330",
+            "itemName": "Old Monk Peach Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "331",
+            "itemName": "Old Monk Peach Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "332",
+            "itemName": "Old Monk Peach Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "333",
+            "itemName": "Old Monk Rum Very Old Vatted(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "334",
+            "itemName": "Old Monk Rum Very Old Vatted(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "335",
+            "itemName": "Old Monk Rum Very Old Vatted(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "337",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "338",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(375)",
+            "mrp": "390",
+            "covidMrp": "585"
+        },
+        {
+            "id": "339",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "340",
+            "itemName": "Old Monk The Legend Rum VoV(1000)",
+            "mrp": "1030",
+            "covidMrp": "1545"
+        },
+        {
+            "id": "341",
+            "itemName": "Old Monk White Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "342",
+            "itemName": "Old Monk White Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "343",
+            "itemName": "Old Monk White Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "345",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "346",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "347",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(750)",
+            "mrp": "670",
+            "covidMrp": "1005"
+        },
+        {
+            "id": "349",
+            "itemName": "Four Seasons CLASSICS Cabernet Sauvignon Red Wine(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "350",
+            "itemName": "Four Seasons CLASSICS Sauvignon Blanc White Wine(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "351",
+            "itemName": "John Exshaw Premium Sweet Red Wine(750)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "352",
+            "itemName": "Fortant Chardonnay(White Wine)(750)",
+            "mrp": "1630",
+            "covidMrp": "2445"
+        },
+        {
+            "id": "353",
+            "itemName": "Fortant Grenache(Red Wine)(750)",
+            "mrp": "1600",
+            "covidMrp": "2400"
+        },
+        {
+            "id": "354",
+            "itemName": "Fratelli Cabernet Franc Shiraz(375)",
+            "mrp": "480",
+            "covidMrp": "720"
+        },
+        {
+            "id": "355",
+            "itemName": "Fratelli Cabernet Franc Shiraz(750)",
+            "mrp": "860",
+            "covidMrp": "1290"
+        },
+        {
+            "id": "357",
+            "itemName": "Fratelli Chardonnay(750)",
+            "mrp": "1050",
+            "covidMrp": "1575"
+        },
+        {
+            "id": "358",
+            "itemName": "Fratelli Classic Chenin(375)",
+            "mrp": "370",
+            "covidMrp": "555"
+        },
+        {
+            "id": "359",
+            "itemName": "Fratelli Classic Chenin(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "360",
+            "itemName": "Fratelli Classic Merlot(375)",
+            "mrp": "400",
+            "covidMrp": "600"
+        },
+        {
+            "id": "361",
+            "itemName": "Fratelli Classic Merlot(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "363",
+            "itemName": "Fratelli Classic Shiraz(375)",
+            "mrp": "370",
+            "covidMrp": "555"
+        },
+        {
+            "id": "364",
+            "itemName": "Fratelli Classic Shiraz(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "365",
+            "itemName": "Fratelli Gran Cuvee Brut(750)",
+            "mrp": "1420",
+            "covidMrp": "2130"
+        },
+        {
+            "id": "366",
+            "itemName": "Fratelli Merlot(750)",
+            "mrp": "1190",
+            "covidMrp": "1785"
+        },
+        {
+            "id": "367",
+            "itemName": "Fratelli MS(750)",
+            "mrp": "1190",
+            "covidMrp": "1785"
+        },
+        {
+            "id": "368",
+            "itemName": "Kyra Chenin(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "369",
+            "itemName": "Kyra Red Riserva(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "370",
+            "itemName": "Kyra Red Riserva(375)",
+            "mrp": "250",
+            "covidMrp": "375"
+        },
+        {
+            "id": "371",
+            "itemName": "Kyra Red Riserva(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "372",
+            "itemName": "Kyra Rose(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "373",
+            "itemName": "Kyra Shiraz(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "374",
+            "itemName": "Sidus Premium Port Wine(180)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "375",
+            "itemName": "Sidus Premium Port Wine(375)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "376",
+            "itemName": "Sidus Premium Port Wine(750)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "378",
+            "itemName": "Sollazzo Vino Bianco D'italia(White Wine)(750)",
+            "mrp": "1030",
+            "covidMrp": "1545"
+        },
+        {
+            "id": "379",
+            "itemName": "Sollazzo Vino Rosso D'italia(Red Wine)(750)",
+            "mrp": "1030",
+            "covidMrp": "1545"
+        },
+        {
+            "id": "380",
+            "itemName": "LE ROI' Black Premium Reserva Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "381",
+            "itemName": "LE ROI' Black Premium Reserva Whisky(375)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "382",
+            "itemName": "LE ROI' Black Premium Reserva Whisky(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "383",
+            "itemName": "LE ROI' XS Special Reserva Brandy(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "384",
+            "itemName": "LE ROI' XS Special Reserva Brandy(375)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "385",
+            "itemName": "LE ROI' XS Special Reserva Brandy(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "386",
+            "itemName": "Wassup # Trendy Vodka(180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "387",
+            "itemName": "Wassup # Trendy Vodka(750)",
+            "mrp": "710",
+            "covidMrp": "1065"
+        },
+        {
+            "id": "388",
+            "itemName": "ASB Prime Time Premium Grain Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "389",
+            "itemName": "ASB Prime Time Premium Grain Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "390",
+            "itemName": "ASB Prime Time Premium Grain Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "392",
+            "itemName": "Black Berry Authentic XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "393",
+            "itemName": "Black Berry Authentic XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "394",
+            "itemName": "Black Berry Authentic XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "395",
+            "itemName": "Black Berry Authentic XXX Rum(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "397",
+            "itemName": "Black Berry Gold Reserve Super  Pr.XXX Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "398",
+            "itemName": "Black Berry Gold Reserve Super  Pr.XXX Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "399",
+            "itemName": "Black Berry Gold Reserve Super  Pr.XXX Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "400",
+            "itemName": "Black Berry Gold Reserve Super  Pr.XXX Rum(750)",
+            "mrp": "580",
+            "covidMrp": "870"
+        },
+        {
+            "id": "402",
+            "itemName": "Black Berry Superior XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "403",
+            "itemName": "Black Berry Superior XXX Rum(180)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "404",
+            "itemName": "Black Berry Superior XXX Rum(750)",
+            "mrp": "490",
+            "covidMrp": "735"
+        },
+        {
+            "id": "406",
+            "itemName": "Carbon Alpha Grain Vodka(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "407",
+            "itemName": "Carbon Alpha Grain Vodka(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "408",
+            "itemName": "Carbon Alpha Grain Vodka(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "410",
+            "itemName": "Carbon Alpha Green Apple Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "411",
+            "itemName": "Carbon Alpha Green Apple Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "412",
+            "itemName": "Carbon Alpha Green Apple Vodka(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "413",
+            "itemName": "Carbon Alpha Green Lemon Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "414",
+            "itemName": "Carbon Alpha Green Lemon Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "415",
+            "itemName": "Carbon Alpha Green Lemon Vodka(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "416",
+            "itemName": "Front Line Rare Deluxe Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "417",
+            "itemName": "Front Line Rare Deluxe Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "418",
+            "itemName": "Front Line Rare Deluxe Whisky(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "419",
+            "itemName": "Front Line Rare Deluxe Whisky(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "421",
+            "itemName": "Front Line Superior Grain Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "422",
+            "itemName": "Front Line Superior Grain Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "423",
+            "itemName": "Front Line Superior Grain Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "424",
+            "itemName": "Front Line Superior Grain Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "426",
+            "itemName": "Golden Green Field Rich.Warm & Rewarding Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "427",
+            "itemName": "Golden Green Field Rich.Warm & Rewarding Whisky(375)",
+            "mrp": "480",
+            "covidMrp": "720"
+        },
+        {
+            "id": "428",
+            "itemName": "Golden Green Field Rich.Warm & Rewarding Whisky(750)",
+            "mrp": "930",
+            "covidMrp": "1395"
+        },
+        {
+            "id": "430",
+            "itemName": "Golden Rock on Blue Rich Grain Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "431",
+            "itemName": "Golden Rock on Blue Rich Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "432",
+            "itemName": "Golden Rock on Blue Rich Grain Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "433",
+            "itemName": "Golden Rock on Blue Rich Grain Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "435",
+            "itemName": "One Shot Rare Orange Gin(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "436",
+            "itemName": "One Shot Rare Orange Gin(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "437",
+            "itemName": "One Shot Rare Orange Gin(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "438",
+            "itemName": "One Shot Rare Orange Gin(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "440",
+            "itemName": "Grover Cabernet Shiraz (375)",
+            "mrp": "360",
+            "covidMrp": "540"
+        },
+        {
+            "id": "441",
+            "itemName": "Grover Cabernet Shiraz (750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "443",
+            "itemName": "Grover La Reserve Michel Rolland(750)",
+            "mrp": "1070",
+            "covidMrp": "1605"
+        },
+        {
+            "id": "444",
+            "itemName": "Grover Rose Wine(750)",
+            "mrp": "740",
+            "covidMrp": "1110"
+        },
+        {
+            "id": "445",
+            "itemName": "Grover Sauvignon Blanc (375)",
+            "mrp": "360",
+            "covidMrp": "540"
+        },
+        {
+            "id": "446",
+            "itemName": "Grover Sauvignon Blanc (750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "447",
+            "itemName": "Grover Vijay Amiritraj Reserve Collection Wine(750)",
+            "mrp": "1440",
+            "covidMrp": "2160"
+        },
+        {
+            "id": "448",
+            "itemName": "Santa Cruz Port Wine(180)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "449",
+            "itemName": "Santa Cruz Port Wine(750)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "451",
+            "itemName": "Sante Chenin Blanc(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "452",
+            "itemName": "Sante Shiraz(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "453",
+            "itemName": "Zampa Soiree Brut Method Traditionaelle(750)",
+            "mrp": "1210",
+            "covidMrp": "1815"
+        },
+        {
+            "id": "454",
+            "itemName": "Maria Indian Single Malt Whisky(180)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "455",
+            "itemName": "Maria Indian Single Malt Whisky(375)",
+            "mrp": "1190",
+            "covidMrp": "1785"
+        },
+        {
+            "id": "456",
+            "itemName": "Maria Indian Single Malt Whisky(750)",
+            "mrp": "2370",
+            "covidMrp": "3555"
+        },
+        {
+            "id": "458",
+            "itemName": "Chateau Gaumin Bordeaux(750)",
+            "mrp": "2510",
+            "covidMrp": "3765"
+        },
+        {
+            "id": "459",
+            "itemName": "Lancers Brut(750)",
+            "mrp": "1860",
+            "covidMrp": "2790"
+        },
+        {
+            "id": "460",
+            "itemName": "Santana Tempranillo(750)",
+            "mrp": "1310",
+            "covidMrp": "1965"
+        },
+        {
+            "id": "461",
+            "itemName": "Soro Toscana Rosso(750)",
+            "mrp": "1600",
+            "covidMrp": "2400"
+        },
+        {
+            "id": "462",
+            "itemName": "Vintales Bloomin Late Moscato(750)",
+            "mrp": "1410",
+            "covidMrp": "2115"
+        },
+        {
+            "id": "463",
+            "itemName": "Vintales Last Call Shiraz(750)",
+            "mrp": "1410",
+            "covidMrp": "2115"
+        },
+        {
+            "id": "464",
+            "itemName": "Granton Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "465",
+            "itemName": "Granton Whisky(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "466",
+            "itemName": "Granton Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "467",
+            "itemName": "Rum 99 Ninety Nine XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "468",
+            "itemName": "Rum 99 Ninety Nine XXX Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "469",
+            "itemName": "Rum 99 Ninety Nine XXX Rum(750)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "470",
+            "itemName": "Three Royals Special Reserve Finest Premium Whisky(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "471",
+            "itemName": "Three Royals Special Reserve Finest Premium Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "472",
+            "itemName": "Three Royals Special Reserve Finest Premium Whisky(750)",
+            "mrp": "930",
+            "covidMrp": "1395"
+        },
+        {
+            "id": "473",
+            "itemName": "John Rider International Blended Cask Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "474",
+            "itemName": "John Rider International Blended Cask Whisky(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "475",
+            "itemName": "Kingmon Royal Barrel Finest Aged Whisky(750)",
+            "mrp": "950",
+            "covidMrp": "1425"
+        },
+        {
+            "id": "476",
+            "itemName": "Beach House XXX Premium Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "477",
+            "itemName": "Beach House XXX Premium Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "478",
+            "itemName": "Beach House XXX Premium Rum(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "480",
+            "itemName": "Soulmate Blu Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "481",
+            "itemName": "Soulmate Blu Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "482",
+            "itemName": "Soulmate Blu Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "484",
+            "itemName": "Sulmate Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "485",
+            "itemName": "Sulmate Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "486",
+            "itemName": "Sulmate Premium Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "487",
+            "itemName": "V2 O Fine Pure Grain Vodka Smooth(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "488",
+            "itemName": "V2 O Fine Pure Grain Vodka Smooth(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "489",
+            "itemName": "V2 O Fine Pure Grain Vodka Smooth(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "490",
+            "itemName": "Bro Code 15% Crafted Brut(375)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "492",
+            "itemName": "Enso Japanese Whisky(750)",
+            "mrp": "3680",
+            "covidMrp": "5520"
+        },
+        {
+            "id": "494",
+            "itemName": "God's Own VSOP Brandy(750)",
+            "mrp": "2000",
+            "covidMrp": "3000"
+        },
+        {
+            "id": "496",
+            "itemName": "AC Black Pure Grain Whisky(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "497",
+            "itemName": "AC Black Pure Grain Whisky(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "498",
+            "itemName": "AC Black Pure Grain Whisky(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "501",
+            "itemName": "Iice Bare It All Vodka Premium(NEW)(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "502",
+            "itemName": "Iice Bare It All Vodka Premium(NEW)(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "503",
+            "itemName": "Iice Bare It All Vodka Premium(NEW)(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "504",
+            "itemName": "Iice Bare It All Vodka Premium(NEW)(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "505",
+            "itemName": "Iice Bite The Apple Vodka Premium(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "506",
+            "itemName": "Iice Bite The Apple Vodka Premium(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "507",
+            "itemName": "Iice Bite The Apple Vodka Premium(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "508",
+            "itemName": "Iice Bite The Apple Vodka Premium(750)",
+            "mrp": "700",
+            "covidMrp": "1050"
+        },
+        {
+            "id": "509",
+            "itemName": "Iice Kinky Chilly Feel The Burn Vodka Premium(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "510",
+            "itemName": "Iice Kinky Chilly Feel The Burn Vodka Premium(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "511",
+            "itemName": "Iice Kinky Chilly Feel The Burn Vodka Premium(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "512",
+            "itemName": "Iice Kinky Chilly Feel The Burn Vodka Premium(750)",
+            "mrp": "700",
+            "covidMrp": "1050"
+        },
+        {
+            "id": "513",
+            "itemName": "Iice Undress The Orange Vodka Premium(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "514",
+            "itemName": "Iice Undress The Orange Vodka Premium(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "515",
+            "itemName": "Iice Undress The Orange Vodka Premium(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "516",
+            "itemName": "Iice Undress The Orange Vodka Premium(750)",
+            "mrp": "700",
+            "covidMrp": "1050"
+        },
+        {
+            "id": "517",
+            "itemName": "King Henery VIII Blended Scotch Whisky(750)",
+            "mrp": "1700",
+            "covidMrp": "2550"
+        },
+        {
+            "id": "518",
+            "itemName": "Royal Pride Exquisite Whisky(180)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "519",
+            "itemName": "Royal Pride Exquisite Whisky(375)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "520",
+            "itemName": "Royal Pride Exquisite Whisky(750)",
+            "mrp": "920",
+            "covidMrp": "1380"
+        },
+        {
+            "id": "522",
+            "itemName": "Jumbo Club Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "523",
+            "itemName": "Sir John Strong Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "524",
+            "itemName": "Jackies Crown Black Finest Blended Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "525",
+            "itemName": "Jackies Crown Black Finest Blended Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "526",
+            "itemName": "Jackies Crown Black Finest Blended Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "527",
+            "itemName": "Jackies Crown Black Finest Blended Rum(750)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "529",
+            "itemName": "Marlin Blue Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "530",
+            "itemName": "Marlin Blue Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "531",
+            "itemName": "Marlin Blue Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "532",
+            "itemName": "Marlin Blue Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "534",
+            "itemName": "Moller Premium Lage Beer Can(500)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "535",
+            "itemName": "Old Professor Gold Reserve Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "536",
+            "itemName": "Old Professor Gold Reserve Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "537",
+            "itemName": "Old Professor Gold Reserve Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "539",
+            "itemName": "Old Professor Premium Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "540",
+            "itemName": "Old Professor Premium Whisky(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "541",
+            "itemName": "Old Professor Premium Whisky(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "542",
+            "itemName": "Soldier's Pride XXX Classic Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "543",
+            "itemName": "Soldier's Pride XXX Classic Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "544",
+            "itemName": "Soldier's Pride XXX Classic Rum(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "546",
+            "itemName": "Democrat Blended With Matured Malt Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "547",
+            "itemName": "Democrat Blended With Matured Malt Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "548",
+            "itemName": "Democrat Blended With Matured Malt Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "550",
+            "itemName": "Especial Constantino Fine Old Quality Brandy(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "551",
+            "itemName": "Especial Constantino Fine Old Quality Brandy(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "552",
+            "itemName": "Especial Constantino Fine Old Quality Brandy(750)",
+            "mrp": "690",
+            "covidMrp": "1035"
+        },
+        {
+            "id": "554",
+            "itemName": "Hercules XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "555",
+            "itemName": "Hercules XXX Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "556",
+            "itemName": "Hercules XXX Rum(750)",
+            "mrp": "570",
+            "covidMrp": "855"
+        },
+        {
+            "id": "558",
+            "itemName": "Peter Scot Black Single Malt Whisky(060)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "559",
+            "itemName": "Peter Scot Black Single Malt Whisky(750)",
+            "mrp": "3630",
+            "covidMrp": "5445"
+        },
+        {
+            "id": "561",
+            "itemName": "Peter Scot Malt Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "562",
+            "itemName": "Peter Scot Malt Whisky(375)",
+            "mrp": "480",
+            "covidMrp": "720"
+        },
+        {
+            "id": "563",
+            "itemName": "Peter Scot Malt Whisky(750)",
+            "mrp": "960",
+            "covidMrp": "1440"
+        },
+        {
+            "id": "565",
+            "itemName": "Peter Scot Premium Malt Whisky(180)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "566",
+            "itemName": "Peter Scot Premium Malt Whisky(375)",
+            "mrp": "570",
+            "covidMrp": "855"
+        },
+        {
+            "id": "567",
+            "itemName": "Peter Scot Premium Malt Whisky(750)",
+            "mrp": "1130",
+            "covidMrp": "1695"
+        },
+        {
+            "id": "569",
+            "itemName": "Red Knight Finest Blended Malt Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "570",
+            "itemName": "Red Knight Finest Blended Malt Whisky(375)",
+            "mrp": "350",
+            "covidMrp": "525"
+        },
+        {
+            "id": "571",
+            "itemName": "Red Knight Finest Blended Malt Whisky(750)",
+            "mrp": "690",
+            "covidMrp": "1035"
+        },
+        {
+            "id": "573",
+            "itemName": "Red Knight Premium Whisky(180)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "574",
+            "itemName": "Red Knight Premium Whisky(375)",
+            "mrp": "390",
+            "covidMrp": "585"
+        },
+        {
+            "id": "575",
+            "itemName": "Red Knight Premium Whisky(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "577",
+            "itemName": "Dark Knight Deluxe Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "578",
+            "itemName": "Dark Knight Deluxe Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "579",
+            "itemName": "Dark Knight Matured XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "580",
+            "itemName": "Dark Knight Matured XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "581",
+            "itemName": "Dark Knight Matured XXX Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "582",
+            "itemName": "Dark Knight Matured XXX Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "584",
+            "itemName": "DK Superfine Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "585",
+            "itemName": "DK Superfine Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "586",
+            "itemName": "DK Superfine Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "589",
+            "itemName": "Lemme Lemon Rum(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "590",
+            "itemName": "Lemme Lemon Rum(375)",
+            "mrp": "340",
+            "covidMrp": "510"
+        },
+        {
+            "id": "591",
+            "itemName": "Lemme Lemon Rum(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "592",
+            "itemName": "Celebration Pearly Bay Sweet Sparkling Wine(750)",
+            "mrp": "1620",
+            "covidMrp": "2430"
+        },
+        {
+            "id": "593",
+            "itemName": "Fashion Party Collection Vodka(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "594",
+            "itemName": "Fashion Party Collection Vodka(375)",
+            "mrp": "450",
+            "covidMrp": "675"
+        },
+        {
+            "id": "595",
+            "itemName": "Fashion Party Collection Vodka(750)",
+            "mrp": "890",
+            "covidMrp": "1335"
+        },
+        {
+            "id": "596",
+            "itemName": "Oakwood Creek Ultra Premium Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "597",
+            "itemName": "Oakwood Creek Ultra Premium Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "598",
+            "itemName": "Oakwood Creek Ultra Premium Whisky(750)",
+            "mrp": "930",
+            "covidMrp": "1395"
+        },
+        {
+            "id": "599",
+            "itemName": "Pearly Bay Cabernet Souvignon Siraz(750)",
+            "mrp": "1410",
+            "covidMrp": "2115"
+        },
+        {
+            "id": "600",
+            "itemName": "Pearly Bay Chenin Blanc Chardonnay(750)",
+            "mrp": "1410",
+            "covidMrp": "2115"
+        },
+        {
+            "id": "601",
+            "itemName": "Royal Bhutan Matured Rum(180)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "602",
+            "itemName": "Royal Bhutan Matured Rum(375)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "603",
+            "itemName": "Royal Bhutan Matured Rum(750)",
+            "mrp": "430",
+            "covidMrp": "645"
+        },
+        {
+            "id": "604",
+            "itemName": "Colonel's Special Premium & Rare Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "605",
+            "itemName": "Colonel's Special Premium & Rare Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "606",
+            "itemName": "Colonel's Special Premium & Rare Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "608",
+            "itemName": "Diplomat Deluxe Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "609",
+            "itemName": "Diplomat Deluxe Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "610",
+            "itemName": "Diplomat Deluxe Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "611",
+            "itemName": "Diplomat Deluxe Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "613",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "614",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "615",
+            "itemName": "Doctor's Reserve Golden Eagle Premium Blended&#10;Brandy(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "616",
+            "itemName": "Knght Rider Premium Vodka(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "617",
+            "itemName": "Knight Rider Premium Vodka(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "618",
+            "itemName": "Knight Rider Premium Vodka(750)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "619",
+            "itemName": "Old Monk Apple Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "620",
+            "itemName": "Old Monk Apple Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "621",
+            "itemName": "Old Monk Apple Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "622",
+            "itemName": "Old Monk Gold Reserve Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "623",
+            "itemName": "Old Monk Gold Reserve Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "624",
+            "itemName": "Old Monk Gold Reserve Rum(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "625",
+            "itemName": "Old Monk Gold Reserve Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "627",
+            "itemName": "Old Monk Lemon Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "628",
+            "itemName": "Old Monk Lemon Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "629",
+            "itemName": "Old Monk Lemon Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "630",
+            "itemName": "Old Monk Lemon Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "631",
+            "itemName": "Old Monk Matured XXX Deluxe Rum Very Old Vatted(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "632",
+            "itemName": "Old Monk Matured XXX Deluxe Rum Very Old Vatted(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "633",
+            "itemName": "Old Monk Matured XXX Deluxe Rum Very Old Vatted(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "634",
+            "itemName": "Old Monk Matured XXX Deluxe Rum Very Old Vatted(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "636",
+            "itemName": "Old Monk Orange Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "637",
+            "itemName": "Old Monk Orange Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "638",
+            "itemName": "Old Monk Orange Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "639",
+            "itemName": "Old Monk Peach Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "640",
+            "itemName": "Old Monk Peach Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "641",
+            "itemName": "Old Monk Peach Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "642",
+            "itemName": "Old Monk Rum Very Old Vatted(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "643",
+            "itemName": "Old Monk Rum Very Old Vatted(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "644",
+            "itemName": "Old Monk Rum Very Old Vatted(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "645",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(1000)",
+            "mrp": "1030",
+            "covidMrp": "1545"
+        },
+        {
+            "id": "646",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "647",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(375)",
+            "mrp": "390",
+            "covidMrp": "585"
+        },
+        {
+            "id": "648",
+            "itemName": "Old Monk The Legend Rum Very Old Vatted(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "649",
+            "itemName": "Old Monk White Rum(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "650",
+            "itemName": "Old Monk White Rum(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "651",
+            "itemName": "Old Monk White Rum(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "653",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "654",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "655",
+            "itemName": "Solan Number One Black Rare and Premium Whisky(750)",
+            "mrp": "670",
+            "covidMrp": "1005"
+        },
+        {
+            "id": "657",
+            "itemName": "Cats Eyes Strong Beer(650)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "658",
+            "itemName": "Maikal-8000-Super-Strong-Beer(650)(NEW)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "659",
+            "itemName": "Super Strong 7 Hills Beer(650)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "660",
+            "itemName": "Super Strong M Power Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "661",
+            "itemName": "Artic Pure Italian Luxury Vodka(750)",
+            "mrp": "980",
+            "covidMrp": "1470"
+        },
+        {
+            "id": "663",
+            "itemName": "Rockford Classic Finest Blended Whisky(1000)",
+            "mrp": "1210",
+            "covidMrp": "1815"
+        },
+        {
+            "id": "664",
+            "itemName": "Rockford Classic Finest Blended Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "665",
+            "itemName": "Rockford Classic Finest Blended Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "666",
+            "itemName": "Rockford Classic Finest Blended Whisky(750)",
+            "mrp": "920",
+            "covidMrp": "1380"
+        },
+        {
+            "id": "668",
+            "itemName": "The Hawkston Noble Reserve Superior Quality Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "669",
+            "itemName": "The Hawkston Noble Reserve Superior Quality Whisky(375)",
+            "mrp": "360",
+            "covidMrp": "540"
+        },
+        {
+            "id": "670",
+            "itemName": "The Hawkston Noble Reserve Superior Quality Whisky(750)",
+            "mrp": "710",
+            "covidMrp": "1065"
+        },
+        {
+            "id": "672",
+            "itemName": "The Rockford Reserve Fine & Rare Whisky(1000)",
+            "mrp": "1570",
+            "covidMrp": "2355"
+        },
+        {
+            "id": "673",
+            "itemName": "The Rockford Reserve Fine & Rare Whisky(180)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "674",
+            "itemName": "The Rockford Reserve Fine & Rare Whisky(375)",
+            "mrp": "590",
+            "covidMrp": "885"
+        },
+        {
+            "id": "675",
+            "itemName": "The Rockford Reserve Fine & Rare Whisky(750)",
+            "mrp": "1170",
+            "covidMrp": "1755"
+        },
+        {
+            "id": "677",
+            "itemName": "Maharani Blue Lable Super Strong Classic Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "678",
+            "itemName": "Maharani Red Superior Titanic Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "679",
+            "itemName": "Amrut Amalgam Malt Whisky(750)",
+            "mrp": "3490",
+            "covidMrp": "5235"
+        },
+        {
+            "id": "680",
+            "itemName": "Maqintosh Silver Edition Whisky(180)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "681",
+            "itemName": "Maqintosh Silver Edition Whisky(375)",
+            "mrp": "620",
+            "covidMrp": "930"
+        },
+        {
+            "id": "682",
+            "itemName": "Maqintosh Silver Edition Whisky(750)",
+            "mrp": "1230",
+            "covidMrp": "1845"
+        },
+        {
+            "id": "683",
+            "itemName": "Absolut Citron Vodka(750)",
+            "mrp": "2260",
+            "covidMrp": "3390"
+        },
+        {
+            "id": "684",
+            "itemName": "Absolut Peppar Vodka(750)",
+            "mrp": "2260",
+            "covidMrp": "3390"
+        },
+        {
+            "id": "685",
+            "itemName": "Absolut Vodka(200)",
+            "mrp": "590",
+            "covidMrp": "885"
+        },
+        {
+            "id": "686",
+            "itemName": "Absolut Vodka(750)",
+            "mrp": "2070",
+            "covidMrp": "3105"
+        },
+        {
+            "id": "687",
+            "itemName": "Ballantine's Blended Scotch Whisky Aged 12 Years(750)",
+            "mrp": "3500",
+            "covidMrp": "5250"
+        },
+        {
+            "id": "688",
+            "itemName": "Ballantine's Fines B.S Whisky(750)",
+            "mrp": "2060",
+            "covidMrp": "3090"
+        },
+        {
+            "id": "689",
+            "itemName": "BEE FEATER LONDON (750)",
+            "mrp": "2150",
+            "covidMrp": "3225"
+        },
+        {
+            "id": "690",
+            "itemName": "Chivas Regal Aged 12yrs B.S Whisky(750)",
+            "mrp": "4430",
+            "covidMrp": "6645"
+        },
+        {
+            "id": "691",
+            "itemName": "Chivas Regal Aged 18yrs Blended Scotch Whisky(750)",
+            "mrp": "9930",
+            "covidMrp": "14895"
+        },
+        {
+            "id": "692",
+            "itemName": "Imperial Blue Finest Grain Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "693",
+            "itemName": "Imperial Blue Finest Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "694",
+            "itemName": "Imperial Blue Finest Grain Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "695",
+            "itemName": "Imperial Blue Finest Grain Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "696",
+            "itemName": "Jacob's Creek Chardonnay Pinot Noir(750)",
+            "mrp": "1740",
+            "covidMrp": "2610"
+        },
+        {
+            "id": "697",
+            "itemName": "Jacob's Creek Chardonnay(750)",
+            "mrp": "1280",
+            "covidMrp": "1920"
+        },
+        {
+            "id": "698",
+            "itemName": "Jacob's Creek Classic Chardonnay(187)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "699",
+            "itemName": "Jacob's Creek Classic Shiraz Cabernet(187)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "700",
+            "itemName": "Jacob's Creek Shiraz Cabernet(750)",
+            "mrp": "1280",
+            "covidMrp": "1920"
+        },
+        {
+            "id": "701",
+            "itemName": "Jameson Irish Whiskey(750)",
+            "mrp": "2630",
+            "covidMrp": "3945"
+        },
+        {
+            "id": "702",
+            "itemName": "Royal Salute Blended Scotch Whisky 21 Years Old(700)",
+            "mrp": "20000",
+            "covidMrp": "30000"
+        },
+        {
+            "id": "704",
+            "itemName": "Seagram's  Imperial Red Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "705",
+            "itemName": "Seagram's  Imperial Red Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "706",
+            "itemName": "Seagram's  Imperial Red Rum(750)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "707",
+            "itemName": "Seagram's 100 Pipers B.S Whisky Aged 12yrs(750)",
+            "mrp": "2340",
+            "covidMrp": "3510"
+        },
+        {
+            "id": "708",
+            "itemName": "Seagram's 100 Pipers Dlx Ble Scotch Whisky(180)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "709",
+            "itemName": "Seagram's 100 Pipers Dlx Ble Scotch Whisky(375)",
+            "mrp": "900",
+            "covidMrp": "1350"
+        },
+        {
+            "id": "710",
+            "itemName": "Seagram's 100 Pipers Dlx Ble Scotch Whisky(750)",
+            "mrp": "1770",
+            "covidMrp": "2655"
+        },
+        {
+            "id": "711",
+            "itemName": "Seagram's Blenders Pride Classic Premium Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "712",
+            "itemName": "Seagram's Blenders Pride Classic Premium Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "713",
+            "itemName": "Seagram's Blenders Pride Classic Premium Whisky(750)",
+            "mrp": "940",
+            "covidMrp": "1410"
+        },
+        {
+            "id": "714",
+            "itemName": "Seagram's Blenders Pride R.C Whisky(180)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "715",
+            "itemName": "Seagram's Blenders Pride R.C Whisky(375)",
+            "mrp": "590",
+            "covidMrp": "885"
+        },
+        {
+            "id": "716",
+            "itemName": "Seagram's Blenders Pride R.C Whisky(750)",
+            "mrp": "1180",
+            "covidMrp": "1770"
+        },
+        {
+            "id": "717",
+            "itemName": "Seagram's Blenders Pride Reserve Collection Whisky(180)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "718",
+            "itemName": "Seagram's Blenders Pride Reserve Collection Whisky(375)",
+            "mrp": "590",
+            "covidMrp": "885"
+        },
+        {
+            "id": "719",
+            "itemName": "Seagram's Blenders Pride Reserve Collection Whisky(750)",
+            "mrp": "1180",
+            "covidMrp": "1770"
+        },
+        {
+            "id": "720",
+            "itemName": "Seagrams Fuel Vodka Green Apple(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "721",
+            "itemName": "Seagrams Fuel Vodka Green Apple(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "722",
+            "itemName": "Seagrams Fuel Vodka Green Apple(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "723",
+            "itemName": "Seagrams Fuel Vodka Orange(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "724",
+            "itemName": "Seagrams Fuel Vodka Orange(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "725",
+            "itemName": "Seagrams Fuel Vodka Orange(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "726",
+            "itemName": "Seagrams Fuel Vodka(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "727",
+            "itemName": "Seagrams Fuel Vodka(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "728",
+            "itemName": "Seagrams Fuel Vodka(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "729",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "730",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(180)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "731",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(375)",
+            "mrp": "380",
+            "covidMrp": "570"
+        },
+        {
+            "id": "732",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(375)",
+            "mrp": "390",
+            "covidMrp": "585"
+        },
+        {
+            "id": "733",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(750)",
+            "mrp": "750",
+            "covidMrp": "1125"
+        },
+        {
+            "id": "734",
+            "itemName": "Seagram's Royal Stag Barrel Select Whisky(750)",
+            "mrp": "780",
+            "covidMrp": "1170"
+        },
+        {
+            "id": "736",
+            "itemName": "Seagram's Royal Stag Premier Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "737",
+            "itemName": "Seagram's Royal Stag Premier Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "738",
+            "itemName": "Seagram's Royal Stag Premier Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "739",
+            "itemName": "Seagram's Royal Stag Premier Whisky(Inside)(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "740",
+            "itemName": "Something Special Blended Scotch Whisky(750)",
+            "mrp": "2000",
+            "covidMrp": "3000"
+        },
+        {
+            "id": "741",
+            "itemName": "The Glenlivet 12 Years of Age Single Malt Scotch&#10;Whisky(750)",
+            "mrp": "5410",
+            "covidMrp": "8115"
+        },
+        {
+            "id": "742",
+            "itemName": "The Glenlivet Single Malt Scotch Whisky 18 Years of&#10;Age(700)",
+            "mrp": "12390",
+            "covidMrp": "18585"
+        },
+        {
+            "id": "743",
+            "itemName": "M2 Magic Moments Electra Mojito Special Lemon & Mint&#10;Flavour(275)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "744",
+            "itemName": "Magic Moments Electra 4.8 Agent Orange Special Orange&#10;Flavour(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "745",
+            "itemName": "Magic Moments Electra 4.8 Appletini Special Apple&#10;Flavour(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "746",
+            "itemName": "Magic Moments Electra 4.8 Cosmopolitan Special Cranberry&#10;Flavour(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "747",
+            "itemName": "Magic Moments Electra 4.8 Mojito Special Lemon & Mint&#10;Flavour(275)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "749",
+            "itemName": "Regal Talons Rare Generation Whisky(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "750",
+            "itemName": "Regal Talons Rare Generation Whisky(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "751",
+            "itemName": "Regal Talons Rare Generation Whisky(750)",
+            "mrp": "630",
+            "covidMrp": "945"
+        },
+        {
+            "id": "753",
+            "itemName": "1965 Spirit of Victory Premium XXX Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "754",
+            "itemName": "1965 Spirit of Victory Premium XXX Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "755",
+            "itemName": "1965 Spirit of Victory Premium XXX Rum(750)",
+            "mrp": "580",
+            "covidMrp": "870"
+        },
+        {
+            "id": "757",
+            "itemName": "8 PM Select Rare Blend of Indian Whisky & Malt(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "758",
+            "itemName": "8 PM Select Rare Blend of Indian Whisky & Malt(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "759",
+            "itemName": "8 PM Select Rare Blend of Indian Whisky & Malt(375)",
+            "mrp": "250",
+            "covidMrp": "375"
+        },
+        {
+            "id": "760",
+            "itemName": "8 PM Select Rare Blend of Indian Whisky & Malt(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "762",
+            "itemName": "After Dark Premium Grain Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "763",
+            "itemName": "After Dark Premium Grain Whisky(375)",
+            "mrp": "370",
+            "covidMrp": "555"
+        },
+        {
+            "id": "764",
+            "itemName": "After Dark Premium Grain Whisky(750)",
+            "mrp": "730",
+            "covidMrp": "1095"
+        },
+        {
+            "id": "765",
+            "itemName": "Contessa XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "766",
+            "itemName": "Contessa XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "767",
+            "itemName": "Contessa XXX Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "768",
+            "itemName": "Contessa XXX Rum(750)",
+            "mrp": "500",
+            "covidMrp": "750"
+        },
+        {
+            "id": "770",
+            "itemName": "M2 Magic Moments Electra Agent Orange Special Orange&#10;Flavour(275)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "771",
+            "itemName": "M2 Magic Moments Electra Appletini Special Apple&#10;Flavour(275)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "772",
+            "itemName": "M2 Magic Moments Electra Cosmopolitan Special Cranberry&#10;Flavour(275)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "773",
+            "itemName": "M2 Magic Moments Electra Starry Night Martini Special&#10;Chocolate & Coffee Flavour(275)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "774",
+            "itemName": "M2 Magic Moments Remix Smooth Chocolate Flavoured&#10;Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "775",
+            "itemName": "M2 Magic Moments Remix Smooth Chocolate Flavoured&#10;Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "776",
+            "itemName": "M2 Magic Moments Remix Smooth Chocolate Flavoured&#10;Vodka(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "777",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka Green&#10;Apple(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "778",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka Green&#10;Apple(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "779",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka Green&#10;Apple(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "780",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka Green&#10;Apple(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "781",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka&#10;Lemon(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "782",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka&#10;Lemon(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "783",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka&#10;Lemon(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "784",
+            "itemName": "M2 Magic Moments Remix Smooth Flavoured Vodka&#10;Lemon(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "786",
+            "itemName": "M2 Magic Moments Remix Smooth Green Apple Flavoured Vodka(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "787",
+            "itemName": "M2 Magic Moments Remix Smooth Green Apple Flavoured&#10;Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "788",
+            "itemName": "M2 Magic Moments Remix Smooth Green Apple Flavoured&#10;Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "789",
+            "itemName": "M2 Magic Moments Remix Smooth Green Apple Flavoured&#10;Vodka(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "790",
+            "itemName": "M2 Magic Moments Remix Smooth Lemon Flavoured&#10;Vodka(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "791",
+            "itemName": "M2 Magic Moments Remix Smooth Lemon Flavoured&#10;Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "792",
+            "itemName": "M2 Magic Moments Remix Smooth Lemon Flavoured&#10;Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "793",
+            "itemName": "M2 Magic Moments Remix Smooth Lemon Flavoured&#10;Vodka(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "794",
+            "itemName": "M2 Magic Moments Remix Smooth Orange Flavoured&#10;Vodka(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "795",
+            "itemName": "M2 Magic Moments Remix Smooth Orange Flavoured&#10;Vodka(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "796",
+            "itemName": "M2 Magic Moments Remix Smooth Orange Flavoured&#10;Vodka(750)",
+            "mrp": "650",
+            "covidMrp": "975"
+        },
+        {
+            "id": "797",
+            "itemName": "M2 Verve Magic Moments Super Premium Vodka(375)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "798",
+            "itemName": "Magic Moments Pure Grain Vodka(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "799",
+            "itemName": "Magic Moments Pure Grain Vodka(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "800",
+            "itemName": "Magic Moments Pure Grain Vodka(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "801",
+            "itemName": "Magic Moments Pure Grain Vodka(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "803",
+            "itemName": "Morpheus XO Blended Premium Brandy(180)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "804",
+            "itemName": "Morpheus XO Blended Premium Brandy(375)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "805",
+            "itemName": "Morpheus XO Blended Premium Brandy(750)",
+            "mrp": "900",
+            "covidMrp": "1350"
+        },
+        {
+            "id": "807",
+            "itemName": "Pluton Bay Rare Exotic Rum(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "808",
+            "itemName": "Pluton Bay Rare Exotic Rum(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "809",
+            "itemName": "Pluton Bay Rare Exotic Rum(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "810",
+            "itemName": "Addiction Rare Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "811",
+            "itemName": "Addiction Rare Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "812",
+            "itemName": "Addiction Rare Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "813",
+            "itemName": "Addiction Rare Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "814",
+            "itemName": "Blue Eyes Pure Grain Vodka(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "815",
+            "itemName": "Blue Eyes Pure Grain Vodka(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "816",
+            "itemName": "Blue Eyes Pure Grain Vodka(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "817",
+            "itemName": "Commander N Chief Matured XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "818",
+            "itemName": "Commander N Chief Matured XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "819",
+            "itemName": "Commander N Chief Matured XXX Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "820",
+            "itemName": "Commander N Chief Matured XXX Rum(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "821",
+            "itemName": "Dennis Special Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "822",
+            "itemName": "Dennis Special Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "823",
+            "itemName": "Dennis Special Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "824",
+            "itemName": "Dennis Special Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "825",
+            "itemName": "Revolution Original Vodka(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "826",
+            "itemName": "Revolution Original Vodka(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "827",
+            "itemName": "Revolution Original Vodka(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "828",
+            "itemName": "Revolution Original Vodka(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "829",
+            "itemName": "Revolution Platinum XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "830",
+            "itemName": "Revolution Platinum XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "831",
+            "itemName": "Revolution Platinum XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "832",
+            "itemName": "Revolution Platinum XXX Rum(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "833",
+            "itemName": "Revolution Premium XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "834",
+            "itemName": "Revolution Premium XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "835",
+            "itemName": "Revolution Premium XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "836",
+            "itemName": "Revolution Premium XXX Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "837",
+            "itemName": "Rich N Rare Aged Premium Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "838",
+            "itemName": "Rich N Rare Aged Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "839",
+            "itemName": "Rich N Rare Aged Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "840",
+            "itemName": "Rich N Rare Aged Premium Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "841",
+            "itemName": "Red Lady XXX Rum(180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "842",
+            "itemName": "Red Lady XXX Rum(375)",
+            "mrp": "380",
+            "covidMrp": "570"
+        },
+        {
+            "id": "843",
+            "itemName": "Red Lady XXX Rum(750)",
+            "mrp": "750",
+            "covidMrp": "1125"
+        },
+        {
+            "id": "845",
+            "itemName": "Royal One Premium Whisky(180)",
+            "mrp": "220",
+            "covidMrp": "330"
+        },
+        {
+            "id": "846",
+            "itemName": "Royal One Premium Whisky(375)",
+            "mrp": "450",
+            "covidMrp": "675"
+        },
+        {
+            "id": "847",
+            "itemName": "Royal One Premium Whisky(750)",
+            "mrp": "900",
+            "covidMrp": "1350"
+        },
+        {
+            "id": "849",
+            "itemName": "GHOST Herbal Dark Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "850",
+            "itemName": "GHOST Herbal Dark Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "851",
+            "itemName": "GHOST Herbal Dark Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "852",
+            "itemName": "GHOST Herbal Dark Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "853",
+            "itemName": "GHOST Rare Herbal Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "854",
+            "itemName": "GHOST Rare Herbal Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "855",
+            "itemName": "GHOST Rare Herbal Whisky(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "856",
+            "itemName": "GHOST Rare Herbal Whisky(750)",
+            "mrp": "580",
+            "covidMrp": "870"
+        },
+        {
+            "id": "857",
+            "itemName": "NO LIMITS Premium Herbal Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "858",
+            "itemName": "NO LIMITS Premium Herbal Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "859",
+            "itemName": "NO LIMITS Premium Herbal Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "860",
+            "itemName": "NO LIMITS Premium Herbal Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "862",
+            "itemName": "RIF RAF Vintage Herbal Whisky(090)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "863",
+            "itemName": "RIF RAF Vintage Herbal Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "864",
+            "itemName": "RIF RAF Vintage Herbal Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "865",
+            "itemName": "RIF RAF Vintage Herbal Whisky(750)",
+            "mrp": "920",
+            "covidMrp": "1380"
+        },
+        {
+            "id": "867",
+            "itemName": "AC Neat Premier Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "868",
+            "itemName": "AC Neat Premier Whisky(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "869",
+            "itemName": "AC Neat Premier Whisky(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "870",
+            "itemName": "AC Neat Premier Whisky(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "872",
+            "itemName": "AC Sek C Sabki Ek Choice Prestige Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "873",
+            "itemName": "AC Sek C Sabki Ek Choice Prestige Whisky(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "874",
+            "itemName": "AC Sek C Sabki Ek Choice Prestige Whisky(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "875",
+            "itemName": "AC Sek C Sabki Ek Choice Prestige Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "876",
+            "itemName": "Aristocrat Old Reserve Whisky(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "877",
+            "itemName": "Aristocrat Old Reserve Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "878",
+            "itemName": "Aristocrat Old Reserve Whisky(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "879",
+            "itemName": "Aristocrat Old Reserve Whisky(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "881",
+            "itemName": "Aristocrat Premium Classic Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "882",
+            "itemName": "Aristocrat Premium Classic Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "883",
+            "itemName": "Aristocrat Premium Classic Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "884",
+            "itemName": "Aristocrat Premium Classic Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "886",
+            "itemName": "Porto Espana Premium Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "887",
+            "itemName": "Porto Espana Premium Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "888",
+            "itemName": "Porto Espana Premium Rum(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "889",
+            "itemName": "Porto Espana Premium Rum(750)",
+            "mrp": "610",
+            "covidMrp": "915"
+        },
+        {
+            "id": "891",
+            "itemName": "Carnival Grande Premium XXX Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "892",
+            "itemName": "Carnival Grande Premium XXX Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "893",
+            "itemName": "Carnival Grande Premium XXX Rum(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "894",
+            "itemName": "Carnival Grande Premium XXX Rum(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "896",
+            "itemName": "Hunter Extra Strong Premium Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "897",
+            "itemName": "Hunter Refreshing Strong Premium Beer Can(500)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "898",
+            "itemName": "Hunter Refreshing Strong Premium Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "899",
+            "itemName": "Hunter SUPER STRONG PREMIUM BEER (CAN)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "900",
+            "itemName": "Black Fort Premium Lager Beer(650)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "901",
+            "itemName": "Black Fort Refreshing Strong Beer Can(500)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "902",
+            "itemName": "Black Fort Refreshing Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "903",
+            "itemName": "Hunter Superior  Strong Premium Beer Can(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "904",
+            "itemName": "Hunter Superior  Strong Premium Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "905",
+            "itemName": "Hunter Ultra Strong Premium Beer Can(500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "906",
+            "itemName": "Hunter Ultra Strong Premium Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "907",
+            "itemName": "Power 10000 Extra Strong Beer(650)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "908",
+            "itemName": "Power Cool Super Strong Beer(650)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "909",
+            "itemName": "Wood Pecker Lager Premium Wheat Beer Can(500)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "910",
+            "itemName": "Wood Pecker Lager Premium Wheat Beer(650)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "911",
+            "itemName": "AD79 XXX Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "912",
+            "itemName": "AD79 XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "913",
+            "itemName": "AD79 XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "914",
+            "itemName": "AD79 XXX Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "916",
+            "itemName": "Bill Carson Premium Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "917",
+            "itemName": "Bill Carson Premium Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "918",
+            "itemName": "Bill Carson Premium Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "920",
+            "itemName": "D&G Directors Goal Rare Premium Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "921",
+            "itemName": "D&G Directors Goal Rare Premium Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "922",
+            "itemName": "D&G Directors Goal Rare Premium Whisky(750)",
+            "mrp": "940",
+            "covidMrp": "1410"
+        },
+        {
+            "id": "924",
+            "itemName": "The Impression Classic Superior Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "925",
+            "itemName": "The Impression Classic Superior Grain Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "926",
+            "itemName": "The Impression Classic Superior Grain Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "928",
+            "itemName": "Cointreau(700)",
+            "mrp": "3130",
+            "covidMrp": "4695"
+        },
+        {
+            "id": "929",
+            "itemName": "Dia Red Wine(750)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "930",
+            "itemName": "Dia White Wine(750)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "931",
+            "itemName": "Don Alejandro(750)",
+            "mrp": "2550",
+            "covidMrp": "3825"
+        },
+        {
+            "id": "932",
+            "itemName": "Hardys Chardonnay Semillon(750)",
+            "mrp": "1490",
+            "covidMrp": "2235"
+        },
+        {
+            "id": "933",
+            "itemName": "Hardys Shiraz Cabernet(750)",
+            "mrp": "1480",
+            "covidMrp": "2220"
+        },
+        {
+            "id": "934",
+            "itemName": "LE Grand Pinot Noir(750)",
+            "mrp": "1560",
+            "covidMrp": "2340"
+        },
+        {
+            "id": "935",
+            "itemName": "Madera Nashik va Red wine(750)",
+            "mrp": "490",
+            "covidMrp": "735"
+        },
+        {
+            "id": "936",
+            "itemName": "Port Wine 1000 Gold(750)",
+            "mrp": "390",
+            "covidMrp": "585"
+        },
+        {
+            "id": "937",
+            "itemName": "Port Wine 1000(180)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "938",
+            "itemName": "Port Wine 1000(750)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "939",
+            "itemName": "Remy Martin Fine Champagne Cognac VSOP(700)",
+            "mrp": "6960",
+            "covidMrp": "10440"
+        },
+        {
+            "id": "940",
+            "itemName": "Samara Red Wine(750)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "941",
+            "itemName": "Samara White Wine(750)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "942",
+            "itemName": "Sula Brut Methode Traditionnelle(750)",
+            "mrp": "1150",
+            "covidMrp": "1725"
+        },
+        {
+            "id": "943",
+            "itemName": "Sula Brut Rose Methode Traditionnelle(750)",
+            "mrp": "1360",
+            "covidMrp": "2040"
+        },
+        {
+            "id": "944",
+            "itemName": "Sula Dindori Reserve Shiraz(750)",
+            "mrp": "1150",
+            "covidMrp": "1725"
+        },
+        {
+            "id": "945",
+            "itemName": "Sula Mosaic Chenin Sauvignon(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "946",
+            "itemName": "Sula Mosaic Grenache Syrah(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "947",
+            "itemName": "Sula Satori Merlot Malbec(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "948",
+            "itemName": "Sula Satori Tempranillo(750)",
+            "mrp": "890",
+            "covidMrp": "1335"
+        },
+        {
+            "id": "949",
+            "itemName": "Sula Seco Rose Methode Classique(750)",
+            "mrp": "770",
+            "covidMrp": "1155"
+        },
+        {
+            "id": "950",
+            "itemName": "Sula Vineyards cabernet Shiraz(375)",
+            "mrp": "440",
+            "covidMrp": "660"
+        },
+        {
+            "id": "951",
+            "itemName": "Sula Vineyards cabernet Shiraz(750)",
+            "mrp": "790",
+            "covidMrp": "1185"
+        },
+        {
+            "id": "952",
+            "itemName": "Sula Vineyards chenin Blanc(375)",
+            "mrp": "380",
+            "covidMrp": "570"
+        },
+        {
+            "id": "953",
+            "itemName": "Sula Vineyards chenin Blanc(750)",
+            "mrp": "680",
+            "covidMrp": "1020"
+        },
+        {
+            "id": "954",
+            "itemName": "Sula Vineyards Riesling(750)",
+            "mrp": "1010",
+            "covidMrp": "1515"
+        },
+        {
+            "id": "955",
+            "itemName": "Sula Zinfandel Rose(750)",
+            "mrp": "710",
+            "covidMrp": "1065"
+        },
+        {
+            "id": "956",
+            "itemName": "Blue Lagoon Gin Orange(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "957",
+            "itemName": "Blue lagoon Gin Orange(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "958",
+            "itemName": "Blue lagoon Gin Orange(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "959",
+            "itemName": "Blue lagoon Gin Orange(750)",
+            "mrp": "560",
+            "covidMrp": "840"
+        },
+        {
+            "id": "960",
+            "itemName": "Courrier Napoleon Classic Pure Grape French Brandy(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "961",
+            "itemName": "Courrier Napoleon Classic Pure Grape French Brandy(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "962",
+            "itemName": "Courrier Napoleon Classic Pure Grape French Brandy(375)",
+            "mrp": "320",
+            "covidMrp": "480"
+        },
+        {
+            "id": "963",
+            "itemName": "Courrier Napoleon Classic Pure Grape French Brandy(750)",
+            "mrp": "640",
+            "covidMrp": "960"
+        },
+        {
+            "id": "965",
+            "itemName": "Madiraa Gold Dark XXX Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "966",
+            "itemName": "Madiraa Gold Dark XXX Rum(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "967",
+            "itemName": "Madiraa Gold Dark XXX Rum(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "970",
+            "itemName": "Mansion House French Brandy(Inside)(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "971",
+            "itemName": "Mansion House French Brandy(Inside)(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "972",
+            "itemName": "Mansion House French Brandy(Inside)(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "973",
+            "itemName": "Mansion House French Brandy(Inside)(750)",
+            "mrp": "570",
+            "covidMrp": "855"
+        },
+        {
+            "id": "975",
+            "itemName": "Senate Royale Blue Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "976",
+            "itemName": "Senate Royale Blue Grain Whisky(375)",
+            "mrp": "300",
+            "covidMrp": "450"
+        },
+        {
+            "id": "977",
+            "itemName": "Senate Royale Blue Grain Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "979",
+            "itemName": "Senate Royale Red Superior Grain Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "980",
+            "itemName": "Senate Royale Red Superior Grain Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "981",
+            "itemName": "Senate Royale Red Superior Grain Whisky(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "982",
+            "itemName": "Senate Royale Red Superior Grain Whisky(750)",
+            "mrp": "580",
+            "covidMrp": "870"
+        },
+        {
+            "id": "984",
+            "itemName": "Senate Royale Whisky(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "985",
+            "itemName": "Senate Royale Whisky(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "986",
+            "itemName": "Senate Royale Whisky(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "987",
+            "itemName": "Senate Royale Whisky(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "989",
+            "itemName": "Alpha Q Deluxe Whisky (180)",
+            "mrp": "132.64",
+            "covidMrp": "199"
+        },
+        {
+            "id": "990",
+            "itemName": "Alpha Q Deluxe Whisky (750)",
+            "mrp": "529.32",
+            "covidMrp": "794"
+        },
+        {
+            "id": "991",
+            "itemName": "Blue Magic Orange Gin(180)",
+            "mrp": "117.87",
+            "covidMrp": "177"
+        },
+        {
+            "id": "992",
+            "itemName": "Day & Night Deluxe XXX Rum(180)",
+            "mrp": "132.64",
+            "covidMrp": "199"
+        },
+        {
+            "id": "993",
+            "itemName": "Day & Night Deluxe XXX Rum(750)",
+            "mrp": "529.32",
+            "covidMrp": "794"
+        },
+        {
+            "id": "994",
+            "itemName": "Limbu 50(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "995",
+            "itemName": "Old Scot Fine Whisky(180)",
+            "mrp": "107.23",
+            "covidMrp": "161"
+        },
+        {
+            "id": "996",
+            "itemName": "Old Scot xxx Rum(180)",
+            "mrp": "107.23",
+            "covidMrp": "161"
+        },
+        {
+            "id": "997",
+            "itemName": "Old Scot xxx Rum(750)",
+            "mrp": "439.41",
+            "covidMrp": "659"
+        },
+        {
+            "id": "998",
+            "itemName": "Orange 50(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "999",
+            "itemName": "Power 50 Honey Touch(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "1000",
+            "itemName": "Power 50 Honey Touch(600)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1001",
+            "itemName": "RDX 50 Double Caramel(300)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "1002",
+            "itemName": "RDX 50 Double Caramel(600)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1003",
+            "itemName": "Roket 50(300)",
+            "mrp": "60",
+            "covidMrp": "90"
+        },
+        {
+            "id": "1004",
+            "itemName": "Governors Reserve 100% Premium Grain Whisky (180)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "1005",
+            "itemName": "Governors Reserve 100% Premium Grain Whisky (375)",
+            "mrp": "370",
+            "covidMrp": "555"
+        },
+        {
+            "id": "1006",
+            "itemName": "Governors Reserve 100% Premium Grain Whisky (750)",
+            "mrp": "730",
+            "covidMrp": "1095"
+        },
+        {
+            "id": "1007",
+            "itemName": "Oakton Barel Aged Rare Premium Grain Whisky (180)",
+            "mrp": "230",
+            "covidMrp": "345"
+        },
+        {
+            "id": "1008",
+            "itemName": "Oakton Barel Aged Rare Premium Grain Whisky (375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "1009",
+            "itemName": "Oakton Barel Aged Rare Premium Grain Whisky (750)",
+            "mrp": "930",
+            "covidMrp": "1395"
+        },
+        {
+            "id": "1010",
+            "itemName": "Heineken Lager Beer(330)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "1011",
+            "itemName": "Heineken Lager Beer(500)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1012",
+            "itemName": "Heineken Lager Beer(650)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "1013",
+            "itemName": "Kalyani Black Label  Strong Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1014",
+            "itemName": "Kalyani Black Label Strong Premium Beer(500)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "1015",
+            "itemName": "Kalyani-Black-L-Pr-St-Beer(650)(NEW)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1016",
+            "itemName": "King Fisher Blue Select Pr.Beer(330)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1017",
+            "itemName": "King Fisher Blue Select Pr.Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1019",
+            "itemName": "King Fisher Premium Lager Beer(330)",
+            "mrp": "60",
+            "covidMrp": "90"
+        },
+        {
+            "id": "1020",
+            "itemName": "King Fisher Premium Lager Beer(650)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "1021",
+            "itemName": "King Fisher Storm Premium Strong Beer(500)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "1022",
+            "itemName": "King Fisher Storm Premium Strong Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1023",
+            "itemName": "King Fisher Storm Strong Beer(500)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "1024",
+            "itemName": "King Fisher Storm Strong Beer(650)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1025",
+            "itemName": "King Fisher Strong Platinum Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1026",
+            "itemName": "King Fisher Strong Premium Beer Can(500)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "1027",
+            "itemName": "King Fisher Strong Premium Beer(330)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1028",
+            "itemName": "King Fisher Strong Premium Beer(650)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1030",
+            "itemName": "King Fisher Super Premium Strong (500)",
+            "mrp": "110",
+            "covidMrp": "165"
+        },
+        {
+            "id": "1031",
+            "itemName": "King Fisher Super Premium Strong (650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1032",
+            "itemName": "King Fisher Ultra Lager Beer(500)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1033",
+            "itemName": "Kingfisher Premium Lager Beer (500)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1034",
+            "itemName": "Kingfisher Red Pr.Craft Beer(650)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1035",
+            "itemName": "Kingfisher Ultra Lager Beer(330)",
+            "mrp": "100",
+            "covidMrp": "150"
+        },
+        {
+            "id": "1036",
+            "itemName": "Kingfisher Ultra Lager Beer(650)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "1037",
+            "itemName": "KINGFISHER ULTRA MAX PREMIUM STRONG BEER (330)",
+            "mrp": "120",
+            "covidMrp": "180"
+        },
+        {
+            "id": "1038",
+            "itemName": "KINGFISHER ULTRA MAX PREMIUM STRONG BEER (500)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1039",
+            "itemName": "KINGFISHER ULTRA MAX PREMIUM STRONG BEER (650)",
+            "mrp": "190",
+            "covidMrp": "285"
+        },
+        {
+            "id": "1040",
+            "itemName": "Antiquity Blue Ultra Pr. Whisky(180)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "1041",
+            "itemName": "Antiquity Blue Ultra Pr. Whisky(375)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "1042",
+            "itemName": "Antiquity Blue Ultra Pr. Whisky(750)",
+            "mrp": "1040",
+            "covidMrp": "1560"
+        },
+        {
+            "id": "1045",
+            "itemName": "Black & White Blended Scotch Whisky(750)",
+            "mrp": "1690",
+            "covidMrp": "2535"
+        },
+        {
+            "id": "1047",
+            "itemName": "Black Dog Centenary Black Reserve Aged & Rare Blended&#10;Scotch Whisky(180)",
+            "mrp": "460",
+            "covidMrp": "690"
+        },
+        {
+            "id": "1048",
+            "itemName": "Black Dog Centenary Black Reserve Aged & Rare Blended&#10;Scotch Whisky(375)",
+            "mrp": "880",
+            "covidMrp": "1320"
+        },
+        {
+            "id": "1049",
+            "itemName": "Black Dog Centenary Black Reserve Aged & Rare Blended&#10;Scotch Whisky(750)",
+            "mrp": "1730",
+            "covidMrp": "2595"
+        },
+        {
+            "id": "1052",
+            "itemName": "Black Dog Tripple Gold Reserve Tripple Matured Blended&#10;Scotch Whisky(180)",
+            "mrp": "590",
+            "covidMrp": "885"
+        },
+        {
+            "id": "1053",
+            "itemName": "Black Dog Tripple Gold Reserve Tripple Matured Blended&#10;Scotch Whisky(375)",
+            "mrp": "1170",
+            "covidMrp": "1755"
+        },
+        {
+            "id": "1054",
+            "itemName": "Black Dog Tripple Gold Reserve Tripple Matured Blended&#10;Scotch Whisky(750)",
+            "mrp": "2330",
+            "covidMrp": "3495"
+        },
+        {
+            "id": "1056",
+            "itemName": "Captain Morgan The Original Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1057",
+            "itemName": "Captain Morgan The Original Rum(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1058",
+            "itemName": "Captain Morgan The Original Rum(375)",
+            "mrp": "290",
+            "covidMrp": "435"
+        },
+        {
+            "id": "1059",
+            "itemName": "Captain Morgan The Original Rum(750)",
+            "mrp": "570",
+            "covidMrp": "855"
+        },
+        {
+            "id": "1060",
+            "itemName": "Carew's Doctor Special Brandy(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1061",
+            "itemName": "Carew's Doctor Special Brandy(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "1062",
+            "itemName": "Carew's Doctor Special Brandy(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "1064",
+            "itemName": "Ciroc Snap Frost Vodka(750)",
+            "mrp": "3850",
+            "covidMrp": "5775"
+        },
+        {
+            "id": "1065",
+            "itemName": "Derby Special Premium Whisky(USL)(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "1066",
+            "itemName": "Derby Special Premium Whisky(USL)(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1067",
+            "itemName": "Derby Special Premium Whisky(USL)(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "1068",
+            "itemName": "Derby Special Premium Whisky(USL)(750)",
+            "mrp": "540",
+            "covidMrp": "810"
+        },
+        {
+            "id": "1070",
+            "itemName": "Johnnie Walker Black Label  Blended Scotch Whisky(750)",
+            "mrp": "4020",
+            "covidMrp": "6030"
+        },
+        {
+            "id": "1072",
+            "itemName": "Johnnie Walker Double Black Blended Scotch Whisky(750)",
+            "mrp": "5000",
+            "covidMrp": "7500"
+        },
+        {
+            "id": "1073",
+            "itemName": "Johnnie Walker Red Label Blended Scotch Whisky(750)",
+            "mrp": "2010",
+            "covidMrp": "3015"
+        },
+        {
+            "id": "1075",
+            "itemName": "Mc Dowell's No 1 Platinum  Luxury Whisky(180)",
+            "mrp": "170",
+            "covidMrp": "255"
+        },
+        {
+            "id": "1076",
+            "itemName": "Mc Dowell's No 1 Platinum  Luxury Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "1077",
+            "itemName": "Mc Dowell's No 1 Platinum  Luxury Whisky(750)",
+            "mrp": "660",
+            "covidMrp": "990"
+        },
+        {
+            "id": "1078",
+            "itemName": "Mc.Dowell's No.1 Cariba Prem.Gold Rum(090)",
+            "mrp": "70",
+            "covidMrp": "105"
+        },
+        {
+            "id": "1079",
+            "itemName": "Mc.Dowell's No.1 Cariba Prem.Gold Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1080",
+            "itemName": "Mc.Dowell's No.1 Cariba Prem.Gold Rum(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "1081",
+            "itemName": "Mc.Dowell's No.1 Cariba Prem.Gold Rum(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "1083",
+            "itemName": "McD No.1 Celebration Matured XXX Rum(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1084",
+            "itemName": "McD No.1 Celebration Matured XXX Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1085",
+            "itemName": "McD No.1 Celebration Matured XXX Rum(375)",
+            "mrp": "270",
+            "covidMrp": "405"
+        },
+        {
+            "id": "1086",
+            "itemName": "McD No.1 Celebration Matured XXX Rum(750)",
+            "mrp": "530",
+            "covidMrp": "795"
+        },
+        {
+            "id": "1088",
+            "itemName": "Mcd No.1 Reserve Whisky(USL)(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1089",
+            "itemName": "Mcd No.1 Reserve Whisky(USL)(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1090",
+            "itemName": "Mcd No.1 Reserve Whisky(USL)(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "1091",
+            "itemName": "Mcd No.1 Reserve Whisky(USL)(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "1093",
+            "itemName": "McDowell's No.1 Luxury Premium Whisky(180)",
+            "mrp": "150",
+            "covidMrp": "225"
+        },
+        {
+            "id": "1094",
+            "itemName": "McDowell's No.1 Luxury Premium Whisky(375)",
+            "mrp": "310",
+            "covidMrp": "465"
+        },
+        {
+            "id": "1095",
+            "itemName": "McDowell's No.1 Luxury Premium Whisky(750)",
+            "mrp": "600",
+            "covidMrp": "900"
+        },
+        {
+            "id": "1096",
+            "itemName": "McDowell's No.1 Luxury Premium Whisky(90)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1097",
+            "itemName": "McDowell's No.1 Platinum Superior Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "1098",
+            "itemName": "McDowell's No.1 Platinum Superior Whisky(1000)",
+            "mrp": "840",
+            "covidMrp": "1260"
+        },
+        {
+            "id": "1099",
+            "itemName": "McDowell's No.1 Platinum Superior Whisky(180)",
+            "mrp": "160",
+            "covidMrp": "240"
+        },
+        {
+            "id": "1100",
+            "itemName": "McDowell's No.1 Platinum Superior Whisky(375)",
+            "mrp": "330",
+            "covidMrp": "495"
+        },
+        {
+            "id": "1101",
+            "itemName": "McDowell's No.1 Platinum Superior Whisky(750)",
+            "mrp": "640",
+            "covidMrp": "960"
+        },
+        {
+            "id": "1102",
+            "itemName": "Olde Adventurer Matured Cane Rum(USL)(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1103",
+            "itemName": "Olde Adventurer Matured Cane Rum(USL)(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "1104",
+            "itemName": "Olde Adventurer Matured Cane Rum(USL)(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        },
+        {
+            "id": "1106",
+            "itemName": "Royal Challenge Finest Pr.Whisky(180)",
+            "mrp": "180",
+            "covidMrp": "270"
+        },
+        {
+            "id": "1107",
+            "itemName": "Royal Challenge Finest Pr.Whisky(375)",
+            "mrp": "360",
+            "covidMrp": "540"
+        },
+        {
+            "id": "1108",
+            "itemName": "Royal Challenge Finest Pr.Whisky(750)",
+            "mrp": "710",
+            "covidMrp": "1065"
+        },
+        {
+            "id": "1110",
+            "itemName": "Royal Challenge Finest Premium Whisky(090)",
+            "mrp": "90",
+            "covidMrp": "135"
+        },
+        {
+            "id": "1111",
+            "itemName": "Signature Premier Grain Whisky(180)",
+            "mrp": "240",
+            "covidMrp": "360"
+        },
+        {
+            "id": "1112",
+            "itemName": "Signature Premier Grain Whisky(375)",
+            "mrp": "470",
+            "covidMrp": "705"
+        },
+        {
+            "id": "1113",
+            "itemName": "Signature Premier Grain Whisky(750)",
+            "mrp": "940",
+            "covidMrp": "1410"
+        },
+        {
+            "id": "1114",
+            "itemName": "Signature Rare Aged Whisky(180)",
+            "mrp": "200",
+            "covidMrp": "300"
+        },
+        {
+            "id": "1115",
+            "itemName": "Signature Rare Aged Whisky(375)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "1116",
+            "itemName": "Signature Rare Aged Whisky(750)",
+            "mrp": "800",
+            "covidMrp": "1200"
+        },
+        {
+            "id": "1119",
+            "itemName": "Smirnoff  Triple Disstlled Vodka(180)",
+            "mrp": "210",
+            "covidMrp": "315"
+        },
+        {
+            "id": "1120",
+            "itemName": "Smirnoff  Triple Disstlled Vodka(375)",
+            "mrp": "410",
+            "covidMrp": "615"
+        },
+        {
+            "id": "1121",
+            "itemName": "Smirnoff  Triple Disstlled Vodka(750)",
+            "mrp": "800",
+            "covidMrp": "1200"
+        },
+        {
+            "id": "1123",
+            "itemName": "Smirnoff Espresso Triple Disstlled Vodka(180)",
+            "mrp": "210",
+            "covidMrp": "315"
+        },
+        {
+            "id": "1124",
+            "itemName": "Smirnoff Espresso Triple Disstlled Vodka(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "1126",
+            "itemName": "Smirnoff Lime Triple Disstlled Vodka(180)",
+            "mrp": "210",
+            "covidMrp": "315"
+        },
+        {
+            "id": "1127",
+            "itemName": "Smirnoff Lime Triple Disstlled Vodka(750)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "1129",
+            "itemName": "Talisker Single Malt Scotch Whisky(750)",
+            "mrp": "5800",
+            "covidMrp": "8700"
+        },
+        {
+            "id": "1130",
+            "itemName": "Vat 69 Black Blended Scotch Whisky(750)",
+            "mrp": "2140",
+            "covidMrp": "3210"
+        },
+        {
+            "id": "1131",
+            "itemName": "Vat 69 Blended Scotch Whisky(180)",
+            "mrp": "440",
+            "covidMrp": "660"
+        },
+        {
+            "id": "1132",
+            "itemName": "Vat 69 Blended Scotch Whisky(375)",
+            "mrp": "830",
+            "covidMrp": "1245"
+        },
+        {
+            "id": "1133",
+            "itemName": "Vat 69 Blended Scotch Whisky(750)",
+            "mrp": "1660",
+            "covidMrp": "2490"
+        },
+        {
+            "id": "1135",
+            "itemName": "White Mischif Ult.Pure Vodka(090)",
+            "mrp": "80",
+            "covidMrp": "120"
+        },
+        {
+            "id": "1136",
+            "itemName": "White Mischif Ult.Pure Vodka(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1137",
+            "itemName": "White Mischif Ult.Pure Vodka(375)",
+            "mrp": "280",
+            "covidMrp": "420"
+        },
+        {
+            "id": "1138",
+            "itemName": "White Mischif Ult.Pure Vodka(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "1140",
+            "itemName": "Mad General Dark Rum(180)",
+            "mrp": "140",
+            "covidMrp": "210"
+        },
+        {
+            "id": "1141",
+            "itemName": "Mad General Dark Rum(750)",
+            "mrp": "550",
+            "covidMrp": "825"
+        },
+        {
+            "id": "1142",
+            "itemName": "Royal Gold Deluxe Whisky(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1143",
+            "itemName": "Royal Gold Deluxe Whisky(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "1144",
+            "itemName": "Royal Gold Deluxe Whisky(750)",
+            "mrp": "520",
+            "covidMrp": "780"
+        },
+        {
+            "id": "1145",
+            "itemName": "Sikkim XXX Prize Rum(180)",
+            "mrp": "130",
+            "covidMrp": "195"
+        },
+        {
+            "id": "1146",
+            "itemName": "Sikkim XXX Prize Rum(375)",
+            "mrp": "260",
+            "covidMrp": "390"
+        },
+        {
+            "id": "1147",
+            "itemName": "Sikkim XXX Prize Rum(750)",
+            "mrp": "510",
+            "covidMrp": "765"
+        }
+    ]
